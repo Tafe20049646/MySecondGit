@@ -1,1 +1,6 @@
-"echo "# MySecondGit" >> README.md git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Tafe20049646/MySecondGit.git git push -u origin master" 
+"echo "# MySecondGit" >> README.md 
+git init git add README.md 
+
+git commit -m "first commit" 
+
+git remote add origin <<HTTPS LINK>> git push -u origin master" 
